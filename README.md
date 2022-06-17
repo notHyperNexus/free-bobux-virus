@@ -1,4 +1,4 @@
-# freebobuxmalware
+# free bobux malware
 English[us]/  Warning:
 Before run this virus, make sure you install in virtual machine like[vmware, virtual box,
 onworks...] if you run this in real pc your pc will be destroy!!
