@@ -1,4 +1,5 @@
-# free bobux malware
+# free bobux virus
+
 English[us]/  Warning:
 Before run this virus, make sure you install in virtual machine like[vmware, virtual box,
 onworks...] if you run this in real pc your pc will be destroy!!
@@ -12,3 +13,10 @@ Support to the Owner Virus
 YouTube Channel
 
 https://www.youtube.com/channel/UCATrxvrKRMf_6pqXptgXkAw
+
+New Update
+
+Version: \1.5/
+What's New!
+
+Change file type .bat -> .cmd
