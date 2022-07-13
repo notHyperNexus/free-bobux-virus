@@ -8,6 +8,9 @@ Vietnamese/  Canh bao:
 Truoc khi chay con virus nay, dam bao ban dang tai tren may ao nhu[vmware, virtual box,
 onworks...] neu ban chay con virus tren may that thi pc cua ban se bi pha huy!!!
 
+![20220630_163421](https://user-images.githubusercontent.com/94728590/178634894-0e7c61a5-d006-434c-8ad7-43987ce813d0.png)
+
+
 Support to the Owner Virus
 
 YouTube Channel
