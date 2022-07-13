@@ -20,3 +20,5 @@ Version: \1.5/
 What's New!
 
 Change file type .bat -> .cmd
+
+Password: bobux
