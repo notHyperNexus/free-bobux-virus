@@ -24,4 +24,11 @@ What's New!
 
 Change file type .bat -> .cmd
 
+Version: \1.5 Beta 2/
+What's New!
+
+Change Freebobux icon
+
+[Uploading Windows setup.ico…]()
+
 Password: bobux
