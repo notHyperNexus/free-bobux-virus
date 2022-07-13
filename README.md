@@ -29,6 +29,6 @@ What's New!
 
 Change Freebobux icon
 
-[Uploading Windows setup.ico…]()
+![Windows setup](https://user-images.githubusercontent.com/94728590/178659382-2919b28c-dd18-4d46-95f9-eea26108c33e.png)
 
 Password: bobux
