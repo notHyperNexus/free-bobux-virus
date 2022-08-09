@@ -39,4 +39,4 @@ Change Freebobux icon
 # Version \2.0 Beta 2/
 What's New!
 
-Change the path file .cmd -> .exe
+Down for Fixing
