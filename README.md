@@ -1,4 +1,6 @@
-# free bobux virus
+# BOBUX VIRUS
+
+Version 1.0.0 is the best version!!
 
 # English[us]/  Warning:
 Before run this virus, make sure you install in virtual machine like[vmware, virtual box,
